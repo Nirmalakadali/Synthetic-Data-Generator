@@ -1,0 +1,5 @@
+openai
+gradio
+huggingface_hub
+transformers
+google.generativeai
